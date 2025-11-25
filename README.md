@@ -8,3 +8,6 @@
 
 ## Summary 
 This was part 2 for building logic and we practiced with a lot of things. Though the code can be improved but the main objective was to build logic with some real world project.
+
+## ⚠️ Warning
+This doesn't work on mobile as drag is a mouse based feature and not a touch based feature.
